@@ -1,1054 +1,1353 @@
-[
-    {
-        "zh": "我靠著那加給我力量的，凡事都能做。",
-        "en": "I can do all things through Christ who strengthens me.",
-        "zh_ref": "腓立比書 4:13",
-        "en_ref": "Philippians 4:13",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "你們當將一切的憂慮卸給神，因為他顧念你們。",
-        "en": "Cast all your anxiety on him because he cares for you.",
-        "zh_ref": "彼得前書 5:7",
-        "en_ref": "1 Peter 5:7",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我懼怕的時候要倚靠你。",
-        "en": "When I am afraid, I will put my trust in you.",
-        "zh_ref": "詩篇 56:3",
-        "en_ref": "Psalm 56:3",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "不要為明天憂慮，因為明天自有明天的憂慮；一天的難處一天當就夠了。",
-        "en": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-        "zh_ref": "馬太福音 6:34",
-        "en_ref": "Matthew 6:34",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
-        "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
-        "zh_ref": "腓立比書 4:6",
-        "en_ref": "Philippians 4:6",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念。",
-        "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-        "zh_ref": "腓立比書 4:7",
-        "en_ref": "Philippians 4:7",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "耶和華是我的牧者，我必不致缺乏。",
-        "en": "The Lord is my shepherd, I lack nothing.",
-        "zh_ref": "詩篇 23:1",
-        "en_ref": "Psalm 23:1",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他使我躺臥在青草地上，領我在可安歇的水邊。",
-        "en": "He makes me lie down in green pastures, he leads me beside quiet waters.",
-        "zh_ref": "詩篇 23:2",
-        "en_ref": "Psalm 23:2",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
-        "en": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
-        "zh_ref": "詩篇 23:3",
-        "en_ref": "Psalm 23:3",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
-        "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-        "zh_ref": "詩篇 23:4",
-        "en_ref": "Psalm 23:4",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "在我敵人面前，你為我擺設筵席；你用油膏了我的頭，使我的福杯滿溢。",
-        "en": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
-        "zh_ref": "詩篇 23:5",
-        "en_ref": "Psalm 23:5",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我一生一世必有恩惠慈愛隨著我；我且要住在耶和華的殿中，直到永遠。",
-        "en": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
-        "zh_ref": "詩篇 23:6",
-        "en_ref": "Psalm 23:6",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "你們勞苦擔重擔的人都到我這裡來，我要使你們得安息。",
-        "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
-        "zh_ref": "馬太福音 11:28",
-        "en_ref": "Matthew 11:28",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我心裡柔和謙卑，你們當負我的軛，學我的樣式；這樣，你們心裡就必得享安息。",
-        "en": "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.",
-        "zh_ref": "馬太福音 11:29",
-        "en_ref": "Matthew 11:29",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "因為我的軛是容易的，我的擔子是輕省的。",
-        "en": "For my yoke is easy and my burden is light.",
-        "zh_ref": "馬太福音 11:30",
-        "en_ref": "Matthew 11:30",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
-        "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-        "zh_ref": "約翰福音 14:27",
-        "en_ref": "John 14:27",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "因為我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。",
-        "en": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
-        "zh_ref": "耶利米書 29:11",
-        "en_ref": "Jeremiah 29:11",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "凡勞苦擔重擔的人可以到我這裡來，我就使你們得安息。",
-        "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
-        "zh_ref": "馬太福音 11:28",
-        "en_ref": "Matthew 11:28",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "你將我的哀哭變為跳舞，你將我的麻衣脫去，給我披上喜樂。",
-        "en": "You turned my wailing into dancing; you removed my sackcloth and clothed me with joy.",
-        "zh_ref": "詩篇 30:11",
-        "en_ref": "Psalm 30:11",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "喜樂的心乃是良藥；憂傷的靈使骨枯乾。",
-        "en": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
-        "zh_ref": "箴言 17:22",
-        "en_ref": "Proverbs 17:22",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
-        "en": "He refreshes my soul. He guides me along the right paths for his name’s sake.",
-        "zh_ref": "詩篇 23:3",
-        "en_ref": "Psalm 23:3",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "敬畏耶和華是智慧的開端；凡遵行他命令的是聰明人。耶和華是永遠受讚美的！",
-        "en": "The fear of the Lord is the beginning of wisdom; all who follow his precepts have good understanding. To him goes all praise forever!",
-        "zh_ref": "詩篇 111:10",
-        "en_ref": "Psalm 111:10",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？",
-        "en": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
-        "zh_ref": "詩篇 27:1",
-        "en_ref": "Psalm 27:1",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "因為凡求告主名的，就必得救。",
-        "en": "For, “everyone who calls on the name of the Lord will be saved.”",
-        "zh_ref": "羅馬書 10:13",
-        "en_ref": "Romans 10:13",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。",
-        "en": "Do not grieve, for the joy of the Lord is your strength.",
-        "zh_ref": "尼希米記 8:10",
-        "en_ref": "Nehemiah 8:10",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他醫好傷心的人，裹好他們的傷處。",
-        "en": "He heals the brokenhearted and binds up their wounds.",
-        "zh_ref": "詩篇 147:3",
-        "en_ref": "Psalm 147:3",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "那賜人安慰的神，就是那叫耶穌從死裡復活的神，也必照樣叫我們與耶穌一同復活。",
-        "en": "Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace, comfort your hearts and establish you in every good word and work.",
-        "zh_ref": "帖撒羅尼迦後書 2:16-17",
-        "en_ref": "2 Thessalonians 2:16-17",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "在世上，你們有苦難；但你們可以放心，我已經勝了世界。",
-        "en": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
-        "zh_ref": "約翰福音 16:33",
-        "en_ref": "John 16:33",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "凡事都能，在信的人，凡事都能。",
-        "en": "Everything is possible for one who believes.",
-        "zh_ref": "馬可福音 9:23",
-        "en_ref": "Mark 9:23",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。",
-        "en": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”",
-        "zh_ref": "哥林多後書 12:9",
-        "en_ref": "2 Corinthians 12:9",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我總不撇下你，也不丟棄你。",
-        "en": "Never will I leave you; never will I forsake you.",
-        "zh_ref": "希伯來書 13:5",
-        "en_ref": "Hebrews 13:5",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "耶和華是我的力量，是我的盾牌；我心裡倚靠他，就蒙了幫助。",
-        "en": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
-        "zh_ref": "詩篇 28:7",
-        "en_ref": "Psalm 28:7",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他使你的腳快如母鹿的蹄，又使你穩立在高處。",
-        "en": "He enables me to stand on the heights.",
-        "zh_ref": "詩篇 18:33",
-        "en_ref": "Psalm 18:33",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
-        "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-        "zh_ref": "詩篇 23:4",
-        "en_ref": "Psalm 23:4",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "耶和華是我性命的保障，我還懼誰呢？",
-        "en": "The Lord is the stronghold of my life—of whom shall I be afraid?",
-        "zh_ref": "詩篇 27:1",
-        "en_ref": "Psalm 27:1",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "他必像樹栽於水旁，在河邊扎根，炎熱來到，並不懼怕，葉子仍必青翠，在乾旱之年毫無掛慮，而且結果不止。",
-        "en": "They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.",
-        "zh_ref": "耶利米書 17:8",
-        "en_ref": "Jeremiah 17:8",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "你們要稱謝耶和華，因他本為善；他的慈愛永遠長存！",
-        "en": "Give thanks to the Lord, for he is good; his love endures forever.",
-        "zh_ref": "詩篇 107:1",
-        "en_ref": "Psalm 107:1",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "耶和華必幫助他們，搭救他們；他必搭救他們脫離惡人，拯救他們，因為他們投靠他。",
-        "en": "The Lord helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.",
-        "zh_ref": "詩篇 37:40",
-        "en_ref": "Psalm 37:40",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
-        "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
-        "zh_ref": "腓立比書 4:6",
-        "en_ref": "Philippians 4:6",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "那賜人安慰的神，就是那叫耶穌從死裡復活的神，也必照樣叫我們與耶穌一同復活。",
-        "en": "Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace, comfort your hearts and establish you in every good word and work.",
-        "zh_ref": "帖撒羅尼迦後書 2:16-17",
-        "en_ref": "2 Thessalonians 2:16-17",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我們將這道理傳給你們，是叫你們與我們同有團契；而且我們的團契是與父和他的兒子耶穌基督的團契。",
-        "en": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
-        "zh_ref": "約翰一書 1:3",
-        "en_ref": "1 John 1:3",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "願他照著他豐盛的榮耀，藉著他的靈，叫你們心裡的力量剛強起來。",
-        "en": "I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being.",
-        "zh_ref": "以弗所書 3:16",
-        "en_ref": "Ephesians 3:16",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "並叫基督的愛在你們心裡生根建造，叫你們能與眾聖徒一同明白基督的愛是何等長闊高深，",
-        "en": "And I pray that you, being rooted and established in love, may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ,",
-        "zh_ref": "以弗有書 3:17-18",
-        "en_ref": "Ephesians 3:17-18",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "並知道這愛是過於人所能測度的，便叫神一切所充滿的充滿了你們。",
-        "en": "and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God.",
-        "zh_ref": "以弗所書 3:19",
-        "en_ref": "Ephesians 3:19",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "神能照著運行在我們心裡的大能，充充足足地成就一切，超過我們所求所想的。",
-        "en": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,",
-        "zh_ref": "以弗所書 3:20",
-        "en_ref": "Ephesians 3:20",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "願榮耀歸給他在教會中，並在基督耶穌裡，直到世世代代，永永遠遠。阿們！",
-        "en": "to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.",
-        "zh_ref": "以弗所書 3:21",
-        "en_ref": "Ephesians 3:21",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "我們有這指望，如同靈魂的錨，又堅固又牢靠，直通到幔子內。",
-        "en": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain.",
-        "zh_ref": "希伯來書 6:19",
-        "en_ref": "Hebrews 6:19",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "所以，我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。",
-        "en": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.",
-        "zh_ref": "哥林多後書 4:18",
-        "en_ref": "2 Corinthians 4:18",
-        "topic": "安慰與鼓勵"
-    },
-    {
-        "zh": "愛是恆久忍耐，又有恩慈；愛是不嫉妒；愛是不自誇，不張狂。",
-        "en": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
-        "zh_ref": "哥林多前書 13:4",
-        "en_ref": "1 Corinthians 13:4",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不做害羞的事，不求自己的益處，不輕易發怒，不計算人的惡。",
-        "en": "It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
-        "zh_ref": "哥林多前書 13:5",
-        "en_ref": "1 Corinthians 13:5",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不喜歡不義，只喜歡真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。",
-        "en": "It does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
-        "zh_ref": "哥林多前書 13:6-7",
-        "en_ref": "1 Corinthians 13:6-7",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "愛是永不止息。",
-        "en": "Love never fails.",
-        "zh_ref": "哥林多前書 13:8",
-        "en_ref": "1 Corinthians 13:8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "最要緊的是彼此切實相愛，因為愛能遮掩許多的罪。",
-        "en": "Above all, love each other deeply, because love covers over a multitude of sins.",
-        "zh_ref": "彼得前書 4:8",
-        "en_ref": "1 Peter 4:8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們要彼此相愛，像我愛你們一樣；這就是我的命令。",
-        "en": "My command is this: Love each other as I have loved you.",
-        "zh_ref": "約翰福音 15:12",
-        "en_ref": "John 15:12",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "我們愛，因為神先愛我們。",
-        "en": "We love because he first loved us.",
-        "zh_ref": "約翰一書 4:19",
-        "en_ref": "1 John 4:19",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "親愛的弟兄啊，我們應當彼此相愛，因為愛是從神來的。",
-        "en": "Dear friends, let us love one another, for love comes from God.",
-        "zh_ref": "約翰一書 4:7",
-        "en_ref": "1 John 4:7",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "未曾愛心的，就不認識神，因為神就是愛。",
-        "en": "Whoever does not love does not know God, because God is love.",
-        "zh_ref": "約翰一書 4:8",
-        "en_ref": "1 John 4:8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "總而言之，你們都要同心，彼此體恤，相愛如弟兄，存憐憫的心，謙卑。",
-        "en": "Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble.",
-        "zh_ref": "彼得前書 3:8",
-        "en_ref": "1 Peter 3:8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "恨能挑啟爭端；愛能遮掩一切過錯。",
-        "en": "Hatred stirs up conflict, but love covers over all wrongs.",
-        "zh_ref": "箴言 10:12",
-        "en_ref": "Proverbs 10:12",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不可欠人的債，除了彼此相愛。因為愛人的就完全了律法。",
-        "en": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.",
-        "zh_ref": "羅馬書 13:8",
-        "en_ref": "Romans 13:8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸與神。",
-        "en": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.",
-        "zh_ref": "羅馬書 15:7",
-        "en_ref": "Romans 15:7",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "以善勝惡。",
-        "en": "Overcome evil with good.",
-        "zh_ref": "羅馬書 12:21",
-        "en_ref": "Romans 12:21",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "要凡事謙虛、溫柔、忍耐，用愛心互相寬容。",
-        "en": "Be completely humble and gentle; be patient, bearing with one another in love.",
-        "zh_ref": "以弗所書 4:2",
-        "en_ref": "Ephesians 4:2",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "愛人如己。",
-        "en": "Love your neighbor as yourself.",
-        "zh_ref": "馬可福音 12:31",
-        "en_ref": "Mark 12:31",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "要常常喜樂，不住地禱告，凡事謝恩。",
-        "en": "Rejoice always, pray continually, give thanks in all circumstances.",
-        "zh_ref": "帖撒羅尼迦前書 5:16-18",
-        "en_ref": "1 Thessalonians 5:16-18",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "溫柔的回答使怒氣消退；刺耳的話語激動怒氣。",
-        "en": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
-        "zh_ref": "箴言 15:1",
-        "en_ref": "Proverbs 15:1",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "所以，無論何事，你們願意人怎樣待你們，你們也要怎樣待人。",
-        "en": "So in everything, do to others what you would have them do to you.",
-        "zh_ref": "馬太福音 7:12",
-        "en_ref": "Matthew 7:12",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "施比受更為有福。",
-        "en": "It is more blessed to give than to receive.",
-        "zh_ref": "使徒行傳 20:35",
-        "en_ref": "Acts 20:35",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "弟兄們，你們蒙召是要得自由，只是不可將你們的自由當作放縱情慾的機會，總要用愛心互相服事。",
-        "en": "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.",
-        "zh_ref": "加拉太書 5:13",
-        "en_ref": "Galatians 5:13",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "要常存弟兄相愛的心。",
-        "en": "Keep on loving one another as brothers and sisters.",
-        "zh_ref": "希伯來書 13:1",
-        "en_ref": "Hebrews 13:1",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "忍耐的人，大有聰明；性情急躁的，大顯愚妄。",
-        "en": "A patient person has great understanding, but one who is quick-tempered displays folly.",
-        "zh_ref": "箴言 14:29",
-        "en_ref": "Proverbs 14:29",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "朋友乃時常親愛；弟兄為患難而生。",
-        "en": "A friend loves at all times, and a brother is born for a time of adversity.",
-        "zh_ref": "箴言 17:17",
-        "en_ref": "Proverbs 17:17",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "鐵磨鐵，磨出刃來；朋友相感，也是如此。",
-        "en": "As iron sharpens iron, so one person sharpens another.",
-        "zh_ref": "箴言 27:17",
-        "en_ref": "Proverbs 27:17",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "若有人說：「我愛神」，卻恨他的弟兄，就是說謊的；不愛他所看見的弟兄，就不能愛沒有看見的神。",
-        "en": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother or sister, whom they have seen, cannot love God, whom they have not seen.",
-        "zh_ref": "約翰一書 4:20",
-        "en_ref": "1 John 4:20",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們中間誰願為大，就必作你們的用人；誰願為首，就必作你們的僕人。",
-        "en": "Whoever wants to become great among you must be your servant, and whoever wants to be first must be your slave.",
-        "zh_ref": "馬太福音 20:26-27",
-        "en_ref": "Matthew 20:26-27",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們要彼此饒恕，正如主饒恕了你們一樣。",
-        "en": "Forgive each other, just as the Lord has forgiven you.",
-        "zh_ref": "歌羅西書 3:13",
-        "en_ref": "Colossians 3:13",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "當我們還有機會的時候，就當向眾人行善，向信徒一家的人更當如此。",
-        "en": "Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers.",
-        "zh_ref": "加拉太書 6:10",
-        "en_ref": "Galatians 6:10",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "親愛的弟兄啊，不要為自己伸冤，寧可讓步，聽憑主怒。",
-        "en": "Do not take revenge, my dear friends, but leave room for God’s wrath.",
-        "zh_ref": "羅馬書 12:19",
-        "en_ref": "Romans 12:19",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們一切的事都當憑愛心而做。",
-        "en": "Let all that you do be done in love.",
-        "zh_ref": "哥林多前書 16:14",
-        "en_ref": "1 Corinthians 16:14",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們各人的重擔要互相擔當，如此，就完全了基督的律法。",
-        "en": "Carry each other’s burdens, and in this way you will fulfill the law of Christ.",
-        "zh_ref": "加拉太書 6:2",
-        "en_ref": "Galatians 6:2",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們要和睦相處。",
-        "en": "Live in peace with each other.",
-        "zh_ref": "馬可福音 9:50",
-        "en_ref": "Mark 9:50",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "又要彼此相愛，像我愛你們一樣。",
-        "en": "Love one another as I have loved you.",
-        "zh_ref": "約翰福音 13:34",
-        "en_ref": "John 13:34",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不要以惡報惡；眾人以為美的事要留心去做。",
-        "en": "Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing, because to this you were called so that you may inherit a blessing.",
-        "zh_ref": "羅馬書 12:17",
-        "en_ref": "Romans 12:17",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不可含怒到日落。",
-        "en": "Do not let the sun go down while you are still angry.",
-        "zh_ref": "以弗所書 4:26",
-        "en_ref": "Ephesians 4:26",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "言語純全，無可指責，叫那反對的人，因說不出什麼惡來，就自覺羞愧。",
-        "en": "In your teaching show integrity, seriousness and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.",
-        "zh_ref": "提多書 2:7-8",
-        "en_ref": "Titus 2:7-8",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們要追求愛，也要切慕屬靈的恩賜，尤其要切慕作先知講道。",
-        "en": "Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy.",
-        "zh_ref": "哥林多前書 14:1",
-        "en_ref": "1 Corinthians 14:1",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "使人和平的，是用和平所栽種的義果。",
-        "en": "Peacemakers who sow in peace reap a harvest of righteousness.",
-        "zh_ref": "雅各書 3:18",
-        "en_ref": "James 3:18",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "一句話說得合宜，就如金蘋果在銀網子裡。",
-        "en": "A word fitly spoken is like apples of gold in settings of silver.",
-        "zh_ref": "箴言 25:11",
-        "en_ref": "Proverbs 25:11",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "好樹結好果子；壞樹結壞果子。",
-        "en": "A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.",
-        "zh_ref": "馬太福音 7:17",
-        "en_ref": "Matthew 7:17",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "存心謙卑，各人看別人比自己強。",
-        "en": "In humility value others above yourselves.",
-        "zh_ref": "腓立比書 2:3",
-        "en_ref": "Philippians 2:3",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "不要論斷人，免得你們被論斷。",
-        "en": "Do not judge, or you too will be judged.",
-        "zh_ref": "馬太福音 7:1",
-        "en_ref": "Matthew 7:1",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你們禱告，無論求什麼，只要信，就必得著。",
-        "en": "If you believe, you will receive whatever you ask for in prayer.",
-        "zh_ref": "馬太福音 21:22",
-        "en_ref": "Matthew 21:22",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "要愛你們的仇敵，為那逼迫你們的禱告。",
-        "en": "Love your enemies and pray for those who persecute you.",
-        "zh_ref": "馬太福音 5:44",
-        "en_ref": "Matthew 5:44",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。",
-        "en": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
-        "zh_ref": "哥林多後書 5:17",
-        "en_ref": "2 Corinthians 5:17",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "他將深奧的事從黑暗中彰顯，使死蔭顯為光明。",
-        "en": "He reveals the deep things of darkness and brings utter darkness into the light.",
-        "zh_ref": "約伯記 12:22",
-        "en_ref": "Job 12:22",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "你的話是我腳前的燈，是我路上的光。",
-        "en": "Your word is a lamp for my feet, a light on my path.",
-        "zh_ref": "詩篇 119:105",
-        "en_ref": "Psalm 119:105",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "我聽見你的聲音，我歡喜快樂。",
-        "en": "I rejoice in your word like one finding great spoil.",
-        "zh_ref": "詩篇 119:162",
-        "en_ref": "Psalm 119:162",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "神在我們裡面，因為我們遵守他的命令。這就使我們知道，神住在我們裡面，是藉著他所賜給我們的聖靈。",
-        "en": "And this is how we know that he lives in us: We know it by the Spirit he gave us.",
-        "zh_ref": "約翰一書 3:24",
-        "en_ref": "1 John 3:24",
-        "topic": "愛與人際關係"
-    },
-    {
-        "zh": "我們行事為人是憑著信心，不是憑著眼見。",
-        "en": "For we live by faith, not by sight.",
-        "zh_ref": "哥林多後書 5:7",
-        "en_ref": "2 Corinthians 5:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "信就是所望之事的實底，是未見之事的確據。",
-        "en": "Now faith is confidence in what we hope for and assurance about what we do not see.",
-        "zh_ref": "希伯來書 11:1",
-        "en_ref": "Hebrews 11:1",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "人非有信，就不能得神的喜悅；因為到神面前來的人必須信有神，且信他賞賜那尋求他的人。",
-        "en": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.",
-        "zh_ref": "希伯來書 11:6",
-        "en_ref": "Hebrews 11:6",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "凡事都能，在信的人，凡事都能。",
-        "en": "Everything is possible for one who believes.",
-        "zh_ref": "馬可福音 9:23",
-        "en_ref": "Mark 9:23",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們禱告，無論求什麼，只要信，就必得著。",
-        "en": "If you believe, you will receive whatever you ask for in prayer.",
-        "zh_ref": "馬太福音 21:22",
-        "en_ref": "Matthew 21:22",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
-        "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
-        "zh_ref": "腓立比書 4:6",
-        "en_ref": "Philippians 4:6",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念。",
-        "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
-        "zh_ref": "腓立比書 4:7",
-        "en_ref": "Philippians 4:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？",
-        "en": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
-        "zh_ref": "詩篇 27:1",
-        "en_ref": "Psalm 27:1",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "不要懼怕，因為我與你同在；不要驚惶，因為我是你的神。我必堅固你，我必幫助你；我必用我公義的右手扶持你。",
-        "en": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
-        "zh_ref": "以賽亞書 41:10",
-        "en_ref": "Isaiah 41:10",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "因為我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。",
-        "en": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
-        "zh_ref": "耶利米書 29:11",
-        "en_ref": "Jeremiah 29:11",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我們有這指望，如同靈魂的錨，又堅固又牢靠，直通到幔子內。",
-        "en": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain.",
-        "zh_ref": "希伯來書 6:19",
-        "en_ref": "Hebrews 6:19",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "但那等候耶和華的必重新得力。他們必如鷹展翅上騰；他們奔跑卻不困倦，行走卻不疲乏。",
-        "en": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
-        "zh_ref": "以賽亞書 40:31",
-        "en_ref": "Isaiah 40:31",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "所以，我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。",
-        "en": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.",
-        "zh_ref": "哥林多後書 4:18",
-        "en_ref": "2 Corinthians 4:18",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "凡勞苦擔重擔的人都到我這裡來，我要使你們得安息。",
-        "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
-        "zh_ref": "馬太福音 11:28",
-        "en_ref": "Matthew 11:28",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。",
-        "en": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”",
-        "zh_ref": "哥林多後書 12:9",
-        "en_ref": "2 Corinthians 12:9",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我總不撇下你，也不丟棄你。",
-        "en": "Never will I leave you; never will I forsake you.",
-        "zh_ref": "希伯來書 13:5",
-        "en_ref": "Hebrews 13:5",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "在世上，你們有苦難；但你們可以放心，我已經勝了世界。",
-        "en": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
-        "zh_ref": "約翰福音 16:33",
-        "en_ref": "John 16:33",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。",
-        "en": "Do not grieve, for the joy of the Lord is your strength.",
-        "zh_ref": "尼希米記 8:10",
-        "en_ref": "Nehemiah 8:10",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "耶和華是我的牧者，我必不致缺乏。",
-        "en": "The Lord is my shepherd, I lack nothing.",
-        "zh_ref": "詩篇 23:1",
-        "en_ref": "Psalm 23:1",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "他使我躺臥在青草地上，領我在可安歇的水邊。",
-        "en": "He makes me lie down in green pastures, he leads me beside quiet waters.",
-        "zh_ref": "詩篇 23:2",
-        "en_ref": "Psalm 23:2",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
-        "en": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
-        "zh_ref": "詩篇 23:3",
-        "en_ref": "Psalm 23:3",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
-        "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
-        "zh_ref": "詩篇 23:4",
-        "en_ref": "Psalm 23:4",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "在我敵人面前，你為我擺設筵席；你用油膏了我的頭，使我的福杯滿溢。",
-        "en": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
-        "zh_ref": "詩篇 23:5",
-        "en_ref": "Psalm 23:5",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我一生一世必有恩惠慈愛隨著我；我且要住在耶和華的殿中，直到永遠。",
-        "en": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
-        "zh_ref": "詩篇 23:6",
-        "en_ref": "Psalm 23:6",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
-        "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-        "zh_ref": "約翰福音 14:27",
-        "en_ref": "John 14:27",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "他洗淨我們的罪，用他自己的血。",
-        "en": "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins.",
-        "zh_ref": "歌羅西書 1:13-14",
-        "en_ref": "Colossians 1:13-14",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "因為在神，凡事都能。",
-        "en": "For no word from God will ever fail.",
-        "zh_ref": "馬太福音 19:26",
-        "en_ref": "Matthew 19:26",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "耶和華是我的力量，是我的盾牌；我心裡倚靠他，就蒙了幫助。",
-        "en": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
-        "zh_ref": "詩篇 28:7",
-        "en_ref": "Psalm 28:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們若常在我裡面，我的話也常在你們裡面，凡你們所願意的，祈求，就給你們成就。",
-        "en": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.",
-        "zh_ref": "約翰福音 15:7",
-        "en_ref": "John 15:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
-        "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
-        "zh_ref": "約翰福音 14:27",
-        "en_ref": "John 14:27",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "但那等候耶和華的必重新得力。他們必如鷹展翅上騰；他們奔跑卻不困倦，行走卻不疲乏。",
-        "en": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
-        "zh_ref": "以賽亞書 40:31",
-        "en_ref": "Isaiah 40:31",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "所以，不要為明天憂慮，因為明天自有明天的憂慮；一天的難處一天當就夠了。",
-        "en": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
-        "zh_ref": "馬太福音 6:34",
-        "en_ref": "Matthew 6:34",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們一切的重擔要卸給主，他必撫養你們。",
-        "en": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
-        "zh_ref": "詩篇 55:22",
-        "en_ref": "Psalm 55:22",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "凡事都能，在信的人，凡事都能。",
-        "en": "Everything is possible for one who believes.",
-        "zh_ref": "馬可福音 9:23",
-        "en_ref": "Mark 9:23",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "那賜諸般恩典的神曾在基督裡召你們，得享他永遠的榮耀，等你們暫受苦難之後，必要親自成全你們，堅固你們，賜力量給你們。",
-        "en": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.",
-        "zh_ref": "彼得前書 5:10",
-        "en_ref": "1 Peter 5:10",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我們若認自己的罪，神是信實的，是公義的，必要赦免我們的罪，洗淨我們一切的不義。",
-        "en": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
-        "zh_ref": "約翰一書 1:9",
-        "en_ref": "1 John 1:9",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們得救是本乎恩，也因著信；這並不是出於自己，乃是神所賜的；也不是出於行為，免得有人自誇。",
-        "en": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
-        "zh_ref": "以弗所書 2:8-9",
-        "en_ref": "Ephesians 2:8-9",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。",
-        "en": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
-        "zh_ref": "哥林多後書 5:17",
-        "en_ref": "2 Corinthians 5:17",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們求，就給你們；尋找，就尋見；叩門，就給你們開門。",
-        "en": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
-        "zh_ref": "馬太福音 7:7",
-        "en_ref": "Matthew 7:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "因為凡祈求的，就得著；尋找的，就尋見；叩門的，就給他開門。",
-        "en": "For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.",
-        "zh_ref": "馬太福音 7:8",
-        "en_ref": "Matthew 7:8",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "因為從他造天地以來，神的永能和神性是明明可知的，雖是眼不能見，但藉著所造之物就可以曉得，叫人無可推諉。",
-        "en": "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.",
-        "zh_ref": "羅馬書 1:20",
-        "en_ref": "Romans 1:20",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "敬畏耶和華是知識的開端；愚妄人藐視智慧和訓誨。",
-        "en": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
-        "zh_ref": "箴言 1:7",
-        "en_ref": "Proverbs 1:7",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你從前所學習的，所確信的，要存在心裡；因為你知道是跟誰學的。",
-        "en": "But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it.",
-        "zh_ref": "提摩太後書 3:14",
-        "en_ref": "2 Timothy 3:14",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你的話是我腳前的燈，是我路上的光。",
-        "en": "Your word is a lamp for my feet, a light on my path.",
-        "zh_ref": "詩篇 119:105",
-        "en_ref": "Psalm 119:105",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "我聽見你的聲音，我歡喜快樂。",
-        "en": "I rejoice in your word like one finding great spoil.",
-        "zh_ref": "詩篇 119:162",
-        "en_ref": "Psalm 119:162",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們中間若有缺少智慧的，應當求那厚賜與眾人、也不斥責人的神，主就必賜給他。",
-        "en": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
-        "zh_ref": "雅各書 1:5",
-        "en_ref": "James 1:5",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "人所行的在耶和華眼中看為正直，耶和華必引導他的腳步。",
-        "en": "In their hearts humans plan their course, but the Lord establishes their steps.",
-        "zh_ref": "箴言 16:9",
-        "en_ref": "Proverbs 16:9",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "你們要順從耶和華，他必使你的路徑平坦。",
-        "en": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
-        "zh_ref": "箴言 3:5-6",
-        "en_ref": "Proverbs 3:5-6",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。",
-        "en": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
-        "zh_ref": "羅馬書 12:2",
-        "en_ref": "Romans 12:2",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "凡事都有定期，天下萬務都有定時。",
-        "en": "There is a time for everything, and a season for every activity under the heavens.",
-        "zh_ref": "傳道書 3:1",
-        "en_ref": "Ecclesiastes 3:1",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "不要怕，只要信！",
-        "en": "Don’t be afraid; just believe.",
-        "zh_ref": "馬可福音 5:36",
-        "en_ref": "Mark 5:36",
-        "topic": "信心與盼望"
-    },
-    {
-        "zh": "敬畏耶和華是智慧的開端；凡遵行他命令的是聰明人。耶和華是永遠受讚美的！",
-        "en": "The fear of the Lord is the beginning of wisdom; all who follow his precepts have good understanding. To him goes all praise forever!",
-        "zh_ref": "詩篇 111:10",
-        "en_ref": "Psalm 111:10",
-        "topic": "信心與盼望"
-    },
+{
+    "blessings": [
+        "天父對你說：你是我眼中的珍寶。",
+        "天父對你說：你不需要假裝堅強，我喜歡真實的你。",
+        "天父對你說：你的慢，不代表你落後。",
+        "天父對你說：你不必懂所有道理，信就夠了。",
+        "天父對你說：你是我的產業，我親自保守。",
+        "天父對你說：你尋求的平安，不在環境，在我裡面。",
+        "天父對你說：你的忍耐，我都記得。",
+        "天父對你說：你受的委屈，不會白白流過。",
+        "天父對你說：我不會離開，無論你怎麼選擇。",
+        "天父對你說：我喜歡你的真心，而不是你的完美。",
+        "天父對你說：你想說的話，即使沒說出口，我也明白。",
+        "天父對你說：你所缺乏的，我會供應。",
+        "天父對你說：你不是被遺落的，而是被特別挑選的。",
+        "天父對你說：你能承擔，是因為我已經賜你力量。",
+        "天父對你說：你不用證明自己存在的價值，我早已肯定你。",
+        "天父對你說：你即使失去了什麼，我會加倍還給你。",
+        "天父對你說：你願意相信我一次嗎？我會改變你的全人生命。",
+        "天父對你說：你的信心，即使只有一點，也會被我悅納。",
+        "天父對你說：你不是問題本身，而是祝福的開端。",
+        "天父對你說：你的善良不是軟弱，是能力。",
+        "天父對你說：每當你心軟了，就是我在裡面動工。",
+        "天父對你說：你的存在，沒有任何人能取代。",
+        "天父對你說：當你說「我不行」，我說「我在」。",
+        "天父對你說：你今天的懷疑，不會阻止我明天的恩典。",
+        "天父對你說：我了解你不被了解的感覺。",
+        "天父對你說：你再也不用逃跑了，我在等你回家。",
+        "天父對你說：你選擇回應我，就是我們關係的開始。",
+        "天父對你說：你的沉默，不會讓我誤會你。",
+        "天父對你說：你生命的空白，我願意來填滿。",
+        "天父對你說：即使你關上門，我也能穿越牆。",
+        "天父對你說：你累了可以歇一歇，我來接手。",
+        "天父對你說：我沒在等你變得更屬靈，我要的是真誠。",
+        "天父對你說：你沒有被遺忘，我一直記得你。",
+        "天父對你說：我不是來審判你，而是要拯救你。",
+        "天父對你說：你現在走的不是彎路，而是預備的路。",
+        "天父對你說：在你放棄自己的時候，我仍堅持愛你。",
+        "天父對你說：我永不丟棄破碎的器皿。",
+        "天父對你說：就算你不再信我，我依然不離開你。",
+        "天父對你說：你沒有比別人差，你只是走在不同的節奏。",
+        "天父對你說：別急著回應世界，先聽我怎麼說。",
+        "天父對你說：在你無助時，我就是你的幫助者。",
+        "天父對你說：你不是軟弱，你是在學習依靠。",
+        "天父對你說：我比你更了解你內心的複雜。",
+        "天父對你說：你有我，你就永遠不會少。",
+        "天父對你說：我知道你怕再受傷，但我不會傷你。",
+        "天父對你說：你每一滴眼淚，我都珍藏在我心裡。",
+        "天父對你說：你不需要迎合我，我從不要求你討好我。",
+        "天父對你說：你感覺不到我時，我反而最靠近。",
+        "天父對你說：當你呼救時，我早已預備好出口。",
+        "天父對你說：我不是因為你禱告才愛你，而是一直都愛你。",
+        "天父對你說：你來尋我，我會讓你尋見。",
+        "天父對你說：你停下腳步時，我會停下來陪你。",
+        "天父對你說：你真實的情緒，不會被我拒絕。",
+        "天父對你說：即使你動搖，我的信實永不改變。",
+        "天父對你說：你不是一個人扛下這一切。",
+        "天父對你說：你走過的荒野，我會開出花來。",
+        "天父對你說：你的低谷，是我恩典最深的地方。",
+        "天父對你說：你可以放心把心交給我，我不會輕看它。",
+        "天父對你說：我知道你在掙扎，我願意幫你脫離重擔。",
+        "天父對你說：你的一切努力，都不會白費。",
+        "天父對你說：你正在蛻變，請不要急著定義自己。",
+        "天父對你說：當你感覺一切都無望，請記得我還在。",
+        "天父對你說：你的故事還沒完，我的計劃正在進行中。",
+        "天父對你說：你並不需要變得特別，我就是為你而喜樂。",
+        "天父對你說：你不被理解時，我就是你最大的理解者。",
+        "天父對你說：我的同在，不取決於你的感受，而是我不變的應許。",
+        "天父對你說：你並不需要急著證明自己，只需安息在我裡面。",
+        "天父對你說：你的每一次回應我，天使都為你歡呼。",
+        "天父對你說：你是我特別為這世代預備的見證。",
+        "天父對你說：你不是偶然出生，而是我精心設計的奇蹟。",
+        "天父對你說：你不用隱藏脆弱，我不嫌棄也不羞辱。",
+        "天父對你說：你可以犯錯，我不會因而離開你。",
+        "天父對你說：你的生命價值不是用表現衡量的。",
+        "天父對你說：你走進黑夜，我就成為你的星光。",
+        "天父對你說：你的名字我寫在掌上，永不抹去。",
+        "天父對你說：我的恩典，不會因你失落就中斷。",
+        "天父對你說：我一直都在，即使你懷疑。",
+        "天父對你說：你的平凡，是我最深的喜悅。",
+        "天父對你說：你的成長，有我看顧，有我同行。",
+        "天父對你說：你曾經流的眼淚，正在澆灌未來的祝福。",
+        "天父對你說：你現在的信心，就是改變命運的種子。",
+        "天父對你說：當你說「主啊救我」，我早已奔向你。",
+        "天父對你說：你什麼都做不出來的時候，我仍然擁抱你。",
+        "天父對你說：我不是遠方的神，而是住在你心裡的父。",
+        "天父對你說：你值得被愛，不論今天過得怎麼樣。",
+        "天父對你說：你每一次回轉，我都慶祝。",
+        "天父對你說：你無需懂一切，只需要靠近我。",
+        "天父對你說：你的一切交託，我會信實完成。",
+        "天父對你說：你活著，本身就是一種榮耀。",
+        "天父對你說：我在你痛的地方，埋下醫治的種子。",
+        "天父對你說：你跌倒的地方，會成為將來的見證。",
+        "天父對你說：你從不是我的負擔，而是我的心肝寶貝。",
+        "天父對你說：你什麼都不必做，我也愛你。",
+        "天父對你說：你今天願意呼求我，就是恩典的開始。",
+        "天父對你說：你回應我一吋，我就向你奔跑一里。",
+        "天父對你說：你不是太小，而是我眼中極大的珍寶。",
+        "天父對你說：你的「不夠」將成為我榮耀的器皿。",
+        "天父對你說：你不必堅強太久，我會撐你回家。",
+        "天父對你說：你的破碎，將成為祝福的通道。",
+        "天父對你說：你最深的懷疑，我都願意用愛回答。",
+        "天父對你說：即使你什麼都不說，我也明白你心裡的聲音。",
+        "天父對你說：你可以很軟弱，我會成為你的力量。",
+        "天父對你說：你不是過客，而是我永遠的孩子。",
+        "天父對你說：我愛你，不會因你改變而減少。",
+        "天父對你說：你不用爭取我的關愛，它早就屬於你。",
+        "天父對你說：每次你跌倒，我都在你旁邊等你起來。",
+        "天父對你說：我的愛比你所有的傷還要深。",
+        "天父對你說：你累了就來我這裡，我會讓你得安息。",
+        "天父對你說：就算你今天什麼都做不到，也不會失去我的愛。",
+        "天父對你說：當你不確定自己的價值時，來看我眼中的你。",
+        "天父對你說：你的生命不會白走，每一步我都記得。",
+        "天父對你說：你可以哭，我會陪你一起流淚。",
+        "天父對你說：我不是拿尺來衡量你，而是用愛擁抱你。",
+        "天父對你說：你所有的努力，我都看見了。",
+        "天父對你說：當你呼喊，我會立刻回應你。",
+        "天父對你說：你比你自己想的更被愛。",
+        "天父對你說：別怕錯路，我會引導你回家。",
+        "天父對你說：你就是奇蹟，是我親手的創造。",
+        "天父對你說：你願意軟弱時，我更能施展能力。",
+        "天父對你說：我愛你，不因你做對事才愛你。",
+        "天父對你說：你不需要完美，才有資格被我擁抱。",
+        "天父對你說：你的靜默祈禱，我也一字不漏地聽見。",
+        "天父對你說：別急著變好，我陪你一步步走。",
+        "天父對你說：你的價值，從來不是世界定義的。",
+        "天父對你說：你能夠原諒，是因為我先赦免。",
+        "天父對你說：在我眼中，你總是值得等待。",
+        "天父對你說：你走過的黑暗，不會白費。",
+        "天父對你說：你從來不需要和別人比較。",
+        "天父對你說：你心裡的願望，我都細細收藏。",
+        "天父對你說：每當你安靜下來，我就離你最近。",
+        "天父對你說：我的愛，無論你信不信，都不會改變。",
+        "天父對你說：你每次選擇善良，我都為你驕傲。",
+        "天父對你說：你配得被珍惜、被愛、被接納。",
+        "天父對你說：你不是被遺棄的，是我手中寶貝。",
+        "天父對你說：在你的困境中，我親自作你避難所。",
+        "天父對你說：你的真誠，是我眼中最美的光。",
+        "天父對你說：每一次你說「我願意」，我都微笑。",
+        "天父對你說：你的勇氣，讓天使都為你歡呼。",
+        "天父對你說：我每天都在看你，從來沒有轉身離開。",
+        "天父對你說：你是我創世以來，早已計畫的一份子。",
+        "天父對你說：你疲倦時，不需要解釋，只需要靠近我。",
+        "天父對你說：你不需要撐過一切，我願意撐住你。",
+        "天父對你說：你在我心裡的位置，誰也不能取代。",
+        "天父對你說：你雖跌倒七次，我仍扶你七次。",
+        "天父對你說：每一次你原諒自己，我就在旁邊點頭。",
+        "天父對你說：你就是我的喜樂，不需再證明什麼。",
+        "天父對你說：你想放棄時，我會替你守著希望。",
+        "天父對你說：你的故事還沒完，我還要寫下恩典的章節。",
+        "天父對你說：你不是太遲，而是正好趕上我的計劃。",
+        "天父對你說：你不懂的事，我會替你看顧。",
+        "天父對你說：你的眼神裡，我看到渴望與信心。",
+        "天父對你說：你願意尋求，就一定會遇見我。",
+        "天父對你說：你不是一個人走，而是和我一起走。",
+        "天父對你說：我不嫌你吵，也不嫌你安靜。",
+        "天父對你說：當你覺得自己不重要，我要告訴你你很重要。",
+        "天父對你說：你心裡的空洞，只有我能完全填滿。",
+        "天父對你說：你可以安心跌進我愛的懷抱裡。",
+        "天父對你說：你願意回頭，我就張開雙臂。",
+        "天父對你說：我認識你，也仍然選擇愛你。",
+        "天父對你說：你的日常在我眼中就是敬拜。",
+        "天父對你說：你願意愛人，就是我的喜悅。",
+        "天父對你說：你裡面的光，從未熄滅。",
+        "天父對你說：我知道你累了，別急，我來撐你。",
+        "天父對你說：我不要你完美，我只要你靠近。",
+        "天父對你說：你願意相信的那一刻，我就在你身邊。",
+        "天父對你說：你的等待，不是浪費，而是在預備。",
+        "天父對你說：我願意和你一起擁抱那些痛。",
+        "天父對你說：你不是失敗者，而是被恩典包圍的人。",
+        "天父對你說：我創造你的美，不只是外表，更是心。",
+        "天父對你說：你來找我，我永遠不會嫌你麻煩。",
+        "天父對你說：你所有的悲傷，我都願意背負。",
+        "天父對你說：你不是破碎的，而是正在被我重塑。",
+        "天父對你說：你再也不是被拒絕的孩子。",
+        "天父對你說：你的手，即使顫抖，也能被我牽住。",
+        "天父對你說：你的懷疑，我也願意接納。",
+        "天父對你說：我不會因為你遲疑，就離開你。",
+        "天父對你說：當你害怕，我會抱緊你不放。",
+        "天父對你說：你不是問題的源頭，而是恩典的器皿。",
+        "天父對你說：我願意為你戰勝一切恐懼。",
+        "天父對你說：我了解你不敢說出口的傷口。",
+        "天父對你說：即使別人不懂，我完全明白。",
+        "天父對你說：你說的每句話我都聽見了，不論輕聲或怒吼。",
+        "天父對你說：我從未錯過你任何一次痛。",
+        "天父對你說：你想成為更好的人，我知道，也願幫助你。",
+        "天父對你說：我不是遠在天邊，而是在你每個呼吸之間。",
+        "天父對你說：即使你覺得自己微不足道，在我眼中你無可取代。",
+        "天父對你說：你曾經失去的，我有能力加倍還給你。",
+        "天父對你說：你只需要信任，我會帶你走完全程。",
+        "天父對你說：你的信心哪怕如芥菜種，也足以撼動天國。",
+        "天父對你說：你以為快撐不住時，我正拉著你往上走。",
+        "天父對你說：你生命中的每個碎片，我都將拼成榮耀的畫。",
+        "天父對你說：我對你的應許，不會落空。",
+        "天父對你說：你疲倦的靈，我會更新。",
+        "天父對你說：就算一百次懷疑我，我也願意再愛你一百零一次。",
+        "天父對你說：你是我夢裡也會笑著想念的孩子。",
+        "天父對你說：別怕被看穿，我從來沒有想責備你。",
+        "天父對你說：我不只是神，我更是你永遠的家人。",
+        "天父對你說：你是我眼中的珍寶。",
+        "天父對你說：孩子，不要懷疑，我一直在你身邊。",
+        "天父對你說：你的哭泣，我都知道，我的心也為你疼痛。",
+        "天父對你說：你不需要假裝堅強，我喜歡真實的你。",
+        "天父對你說：願你今天安息在我的懷抱中。",
+        "天父對你說：我的愛，不取決於你的表現。",
+        "天父對你說：你不是孤單的，我一直與你同行。",
+        "天父對你說：就算世界否定你，我仍然擁抱你。",
+        "天父對你說：你每一個小小的善意，我都看見了。",
+        "天父對你說：別急，我有我的時機。",
+        "天父對你說：你的價值，不會因他人否定而減少。",
+        "天父對你說：我了解你心中的混亂與掙扎。",
+        "天父對你說：當你軟弱，我就是你的力量。",
+        "天父對你說：我愛你，不是因為你做了什麼，而是因為你是你。",
+        "天父對你說：你願意靠近我，我比你更渴望與你親近。",
+        "天父對你說：失敗了沒關係，我仍然相信你。",
+        "天父對你說：今天的陽光，是我為你預備的微笑。",
+        "天父對你說：你並不需要討好任何人，已經被我完全接納。",
+        "天父對你說：你可以停下腳步，我願意陪你慢慢走。",
+        "天父對你說：我喜歡你現在這個樣子，不多不少，剛剛好。",
+        "天父對你說：你的每一個夢想，我都記在心上。",
+        "天父對你說：別再責怪自己了，我要你學會饒恕自己。",
+        "天父對你說：你不是太多，也不是不夠，你剛好是我所造的你。",
+        "天父對你說：你哭泣的時候，我用愛包裹你。",
+        "天父對你說：我的計劃比你想像的還要美好。",
+        "天父對你說：謝謝你沒有放棄，我知道這並不容易。",
+        "天父對你說：你所經歷的，將成為他人的祝福。",
+        "天父對你說：你的過去，我都能用來成就美事。",
+        "天父對你說：別怕黑夜，因為我就是你的光。",
+        "天父對你說：你值得被深深愛著。",
+        "天父對你說：有我在，沒有一條路你是獨自走。",
+        "天父對你說：你願意交託，我就負責到底。",
+        "天父對你說：你做不到的事，讓我來做。",
+        "天父對你說：當你倚靠我，就沒有懼怕。",
+        "天父對你說：不完美沒關係，我用恩典補足你。",
+        "天父對你說：不要急著改變自己，先學會愛自己。",
+        "天父對你說：你值得休息，也值得被照顧。",
+        "天父對你說：今天的你，已經比昨天更勇敢了。",
+        "天父對你說：你能愛人，是因為我先愛了你。",
+        "天父對你說：別再拿別人的眼光衡量你自己。",
+        "天父對你說：我樂意聽你說心裡話，隨時都可以。",
+        "天父對你說：即使你什麼都不做，我仍然以你為榮。",
+        "天父對你說：你願意靠近我，我的心也為你跳動。",
+        "天父對你說：謝謝你願意相信我，哪怕只是一點點。",
+        "天父對你說：我不會離棄你，就算你失敗千次。",
+        "天父對你說：你今天的眼淚，是明天的種子。",
+        "天父對你說：我的時間表，總是剛剛好。",
+        "天父對你說：你有權利悲傷，也有勇氣站起來。",
+        "天父對你說：即使沒有人懂你，我也完全了解你。",
+        "天父對你說：你不需要變得更好才能被我愛。",
+        "天父對你說：你靜下來的那一刻，就能聽見我的聲音。",
+        "天父對你說：我看你，從來不是帶著責備。",
+        "天父對你說：你的掙扎，我全都知道，我不會責怪你。",
+        "天父對你說：我正在為你開新路，只是你還沒看見。",
+        "天父對你說：你的靈裡疲乏時，來我這裡歇息吧。",
+        "天父對你說：你所有的委屈，我會親自安慰。",
+        "天父對你說：我所為你安排的結局，是充滿盼望的。",
+        "天父對你說：當你選擇饒恕，我就在你裡面得勝。",
+        "天父對你說：你的誠實，是我所喜悅的寶貴香氣。",
+        "天父對你說：我不看你的外貌，只看你的心。",
+        "天父對你說：你現在覺得混亂，但我正在悄悄整理一切。",
+        "天父對你說：我比你更愛你自己。",
+        "天父對你說：你的不安，來我這裡放下吧。",
+        "天父對你說：今天的你，也值得被誇獎。",
+        "天父對你說：你不是麻煩，也不是負擔。",
+        "天父對你說：我永遠不會嫌你情緒太多。",
+        "天父對你說：你在夜裡禱告的聲音，我一聲都沒錯過。",
+        "天父對你說：不管你現在在哪裡，我都能把你帶回來。",
+        "天父對你說：你渴望的愛，其實我一直在給。",
+        "天父對你說：不是因你配得，是因為我就是愛。",
+        "天父對你說：別怕重來，我會再一次陪你走過。",
+        "天父對你說：在你軟弱時，我更靠近你。",
+        "天父對你說：今天的空白，我與你一起填滿。",
+        "天父對你說：你現在的樣子，已經很努力了。",
+        "天父對你說：你值得幸福，也值得自由。",
+        "天父對你說：你給人的善意，我全都記著。",
+        "天父對你說：你沒有被遺忘，你一直被深深記得。",
+        "天父對你說：我不是在高處觀望，而是在你身旁同行。",
+        "天父對你說：就算你對自己失望，我也不會放棄你。",
+        "天父對你說：你很寶貴，無可取代。",
+        "天父對你說：來，我抱抱你。",
+        "天父對你說：無論你有多軟弱，我都樂意住在你裡面。",
+        "天父對你說：你可以跌倒，但我不會讓你碎掉。",
+        "天父對你說：你每一次願意仰望我，我就笑了。",
+        "天父對你說：我永遠不會忘記你名字的聲音。",
+        "天父對你說：這條路雖然不好走，但你不是一個人。",
+        "天父對你說：別把自己藏起來，我一直在找你。",
+        "天父對你說：你的傷，我親自來醫治。",
+        "天父對你說：你流的每一滴眼淚，我都珍藏。",
+        "天父對你說：你可以完全做你自己，我從來沒要求你演戲。",
+        "天父對你說：你不需要急著懂一切，有我陪就好。",
+        "天父對你說：有我在，你不用害怕黑暗。",
+        "天父對你說：你走得再慢，我都會等你。",
+        "天父對你說：你願意向我張開心，我就充滿你。",
+        "天父對你說：我知道你想放棄，但你不孤單。",
+        "天父對你說：你的安靜，我都聽得見。",
+        "天父對你說：我比你更相信你自己能走下去。",
+        "天父對你說：孩子，謝謝你還在努力活著。",
+        "天父對你說：別怕讓我看見你脆弱的樣子，我仍愛你如初。"
+    ],
+    "verses": [
+        {
+            "zh": "我靠著那加給我力量的，凡事都能做。",
+            "en": "I can do all things through Christ who strengthens me.",
+            "zh_ref": "腓立比書 4:13",
+            "en_ref": "Philippians 4:13",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "你們當將一切的憂慮卸給神，因為他顧念你們。",
+            "en": "Cast all your anxiety on him because he cares for you.",
+            "zh_ref": "彼得前書 5:7",
+            "en_ref": "1 Peter 5:7",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我懼怕的時候要倚靠你。",
+            "en": "When I am afraid, I will put my trust in you.",
+            "zh_ref": "詩篇 56:3",
+            "en_ref": "Psalm 56:3",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "不要為明天憂慮，因為明天自有明天的憂慮；一天的難處一天當就夠了。",
+            "en": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+            "zh_ref": "馬太福音 6:34",
+            "en_ref": "Matthew 6:34",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
+            "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+            "zh_ref": "腓立比書 4:6",
+            "en_ref": "Philippians 4:6",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念。",
+            "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+            "zh_ref": "腓立比書 4:7",
+            "en_ref": "Philippians 4:7",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "耶和華是我的牧者，我必不致缺乏。",
+            "en": "The Lord is my shepherd, I lack nothing.",
+            "zh_ref": "詩篇 23:1",
+            "en_ref": "Psalm 23:1",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他使我躺臥在青草地上，領我在可安歇的水邊。",
+            "en": "He makes me lie down in green pastures, he leads me beside quiet waters.",
+            "zh_ref": "詩篇 23:2",
+            "en_ref": "Psalm 23:2",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
+            "en": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
+            "zh_ref": "詩篇 23:3",
+            "en_ref": "Psalm 23:3",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
+            "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+            "zh_ref": "詩篇 23:4",
+            "en_ref": "Psalm 23:4",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "在我敵人面前，你為我擺設筵席；你用油膏了我的頭，使我的福杯滿溢。",
+            "en": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
+            "zh_ref": "詩篇 23:5",
+            "en_ref": "Psalm 23:5",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我一生一世必有恩惠慈愛隨著我；我且要住在耶和華的殿中，直到永遠。",
+            "en": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
+            "zh_ref": "詩篇 23:6",
+            "en_ref": "Psalm 23:6",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "你們勞苦擔重擔的人都到我這裡來，我要使你們得安息。",
+            "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
+            "zh_ref": "馬太福音 11:28",
+            "en_ref": "Matthew 11:28",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我心裡柔和謙卑，你們當負我的軛，學我的樣式；這樣，你們心裡就必得享安息。",
+            "en": "Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.",
+            "zh_ref": "馬太福音 11:29",
+            "en_ref": "Matthew 11:29",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "因為我的軛是容易的，我的擔子是輕省的。",
+            "en": "For my yoke is easy and my burden is light.",
+            "zh_ref": "馬太福音 11:30",
+            "en_ref": "Matthew 11:30",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
+            "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+            "zh_ref": "約翰福音 14:27",
+            "en_ref": "John 14:27",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "因為我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。",
+            "en": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+            "zh_ref": "耶利米書 29:11",
+            "en_ref": "Jeremiah 29:11",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "凡勞苦擔重擔的人可以到我這裡來，我就使你們得安息。",
+            "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
+            "zh_ref": "馬太福音 11:28",
+            "en_ref": "Matthew 11:28",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "你將我的哀哭變為跳舞，你將我的麻衣脫去，給我披上喜樂。",
+            "en": "You turned my wailing into dancing; you removed my sackcloth and clothed me with joy.",
+            "zh_ref": "詩篇 30:11",
+            "en_ref": "Psalm 30:11",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "喜樂的心乃是良藥；憂傷的靈使骨枯乾。",
+            "en": "A cheerful heart is good medicine, but a crushed spirit dries up the bones.",
+            "zh_ref": "箴言 17:22",
+            "en_ref": "Proverbs 17:22",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
+            "en": "He refreshes my soul. He guides me along the right paths for his name’s sake.",
+            "zh_ref": "詩篇 23:3",
+            "en_ref": "Psalm 23:3",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "敬畏耶和華是智慧的開端；凡遵行他命令的是聰明人。耶和華是永遠受讚美的！",
+            "en": "The fear of the Lord is the beginning of wisdom; all who follow his precepts have good understanding. To him goes all praise forever!",
+            "zh_ref": "詩篇 111:10",
+            "en_ref": "Psalm 111:10",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？",
+            "en": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+            "zh_ref": "詩篇 27:1",
+            "en_ref": "Psalm 27:1",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "因為凡求告主名的，就必得救。",
+            "en": "For, “everyone who calls on the name of the Lord will be saved.”",
+            "zh_ref": "羅馬書 10:13",
+            "en_ref": "Romans 10:13",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。",
+            "en": "Do not grieve, for the joy of the Lord is your strength.",
+            "zh_ref": "尼希米記 8:10",
+            "en_ref": "Nehemiah 8:10",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他醫好傷心的人，裹好他們的傷處。",
+            "en": "He heals the brokenhearted and binds up their wounds.",
+            "zh_ref": "詩篇 147:3",
+            "en_ref": "Psalm 147:3",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "那賜人安慰的神，就是那叫耶穌從死裡復活的神，也必照樣叫我們與耶穌一同復活。",
+            "en": "Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace, comfort your hearts and establish you in every good word and work.",
+            "zh_ref": "帖撒羅尼迦後書 2:16-17",
+            "en_ref": "2 Thessalonians 2:16-17",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "在世上，你們有苦難；但你們可以放心，我已經勝了世界。",
+            "en": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+            "zh_ref": "約翰福音 16:33",
+            "en_ref": "John 16:33",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "凡事都能，在信的人，凡事都能。",
+            "en": "Everything is possible for one who believes.",
+            "zh_ref": "馬可福音 9:23",
+            "en_ref": "Mark 9:23",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。",
+            "en": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”",
+            "zh_ref": "哥林多後書 12:9",
+            "en_ref": "2 Corinthians 12:9",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我總不撇下你，也不丟棄你。",
+            "en": "Never will I leave you; never will I forsake you.",
+            "zh_ref": "希伯來書 13:5",
+            "en_ref": "Hebrews 13:5",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "耶和華是我的力量，是我的盾牌；我心裡倚靠他，就蒙了幫助。",
+            "en": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+            "zh_ref": "詩篇 28:7",
+            "en_ref": "Psalm 28:7",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他使你的腳快如母鹿的蹄，又使你穩立在高處。",
+            "en": "He enables me to stand on the heights.",
+            "zh_ref": "詩篇 18:33",
+            "en_ref": "Psalm 18:33",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
+            "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+            "zh_ref": "詩篇 23:4",
+            "en_ref": "Psalm 23:4",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "耶和華是我性命的保障，我還懼誰呢？",
+            "en": "The Lord is the stronghold of my life—of whom shall I be afraid?",
+            "zh_ref": "詩篇 27:1",
+            "en_ref": "Psalm 27:1",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "他必像樹栽於水旁，在河邊扎根，炎熱來到，並不懼怕，葉子仍必青翠，在乾旱之年毫無掛慮，而且結果不止。",
+            "en": "They will be like a tree planted by the water that sends out its roots by the stream. It does not fear when heat comes; its leaves are always green. It has no worries in a year of drought and never fails to bear fruit.",
+            "zh_ref": "耶利米書 17:8",
+            "en_ref": "Jeremiah 17:8",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "你們要稱謝耶和華，因他本為善；他的慈愛永遠長存！",
+            "en": "Give thanks to the Lord, for he is good; his love endures forever.",
+            "zh_ref": "詩篇 107:1",
+            "en_ref": "Psalm 107:1",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "耶和華必幫助他們，搭救他們；他必搭救他們脫離惡人，拯救他們，因為他們投靠他。",
+            "en": "The Lord helps them and delivers them; he delivers them from the wicked and saves them, because they take refuge in him.",
+            "zh_ref": "詩篇 37:40",
+            "en_ref": "Psalm 37:40",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
+            "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+            "zh_ref": "腓立比書 4:6",
+            "en_ref": "Philippians 4:6",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "那賜人安慰的神，就是那叫耶穌從死裡復活的神，也必照樣叫我們與耶穌一同復活。",
+            "en": "Now may our Lord Jesus Christ Himself, and our God and Father, who has loved us and given us everlasting consolation and good hope by grace, comfort your hearts and establish you in every good word and work.",
+            "zh_ref": "帖撒羅尼迦後書 2:16-17",
+            "en_ref": "2 Thessalonians 2:16-17",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我們將這道理傳給你們，是叫你們與我們同有團契；而且我們的團契是與父和他的兒子耶穌基督的團契。",
+            "en": "We proclaim to you what we have seen and heard, so that you also may have fellowship with us. And our fellowship is with the Father and with his Son, Jesus Christ.",
+            "zh_ref": "約翰一書 1:3",
+            "en_ref": "1 John 1:3",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "願他照著他豐盛的榮耀，藉著他的靈，叫你們心裡的力量剛強起來。",
+            "en": "I pray that out of his glorious riches he may strengthen you with power through his Spirit in your inner being.",
+            "zh_ref": "以弗所書 3:16",
+            "en_ref": "Ephesians 3:16",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "並叫基督的愛在你們心裡生根建造，叫你們能與眾聖徒一同明白基督的愛是何等長闊高深，",
+            "en": "And I pray that you, being rooted and established in love, may have power, together with all the Lord’s holy people, to grasp how wide and long and high and deep is the love of Christ,",
+            "zh_ref": "以弗有書 3:17-18",
+            "en_ref": "Ephesians 3:17-18",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "並知道這愛是過於人所能測度的，便叫神一切所充滿的充滿了你們。",
+            "en": "and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God.",
+            "zh_ref": "以弗所書 3:19",
+            "en_ref": "Ephesians 3:19",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "神能照著運行在我們心裡的大能，充充足足地成就一切，超過我們所求所想的。",
+            "en": "Now to him who is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us,",
+            "zh_ref": "以弗所書 3:20",
+            "en_ref": "Ephesians 3:20",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "願榮耀歸給他在教會中，並在基督耶穌裡，直到世世代代，永永遠遠。阿們！",
+            "en": "to him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.",
+            "zh_ref": "以弗所書 3:21",
+            "en_ref": "Ephesians 3:21",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "我們有這指望，如同靈魂的錨，又堅固又牢靠，直通到幔子內。",
+            "en": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain.",
+            "zh_ref": "希伯來書 6:19",
+            "en_ref": "Hebrews 6:19",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "所以，我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。",
+            "en": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.",
+            "zh_ref": "哥林多後書 4:18",
+            "en_ref": "2 Corinthians 4:18",
+            "topic": "安慰與鼓勵"
+        },
+        {
+            "zh": "愛是恆久忍耐，又有恩慈；愛是不嫉妒；愛是不自誇，不張狂。",
+            "en": "Love is patient, love is kind. It does not envy, it does not boast, it is not proud.",
+            "zh_ref": "哥林多前書 13:4",
+            "en_ref": "1 Corinthians 13:4",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不做害羞的事，不求自己的益處，不輕易發怒，不計算人的惡。",
+            "en": "It does not dishonor others, it is not self-seeking, it is not easily angered, it keeps no record of wrongs.",
+            "zh_ref": "哥林多前書 13:5",
+            "en_ref": "1 Corinthians 13:5",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不喜歡不義，只喜歡真理；凡事包容，凡事相信，凡事盼望，凡事忍耐。",
+            "en": "It does not delight in evil but rejoices with the truth. It always protects, always trusts, always hopes, always perseveres.",
+            "zh_ref": "哥林多前書 13:6-7",
+            "en_ref": "1 Corinthians 13:6-7",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "愛是永不止息。",
+            "en": "Love never fails.",
+            "zh_ref": "哥林多前書 13:8",
+            "en_ref": "1 Corinthians 13:8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "最要緊的是彼此切實相愛，因為愛能遮掩許多的罪。",
+            "en": "Above all, love each other deeply, because love covers over a multitude of sins.",
+            "zh_ref": "彼得前書 4:8",
+            "en_ref": "1 Peter 4:8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們要彼此相愛，像我愛你們一樣；這就是我的命令。",
+            "en": "My command is this: Love each other as I have loved you.",
+            "zh_ref": "約翰福音 15:12",
+            "en_ref": "John 15:12",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "我們愛，因為神先愛我們。",
+            "en": "We love because he first loved us.",
+            "zh_ref": "約翰一書 4:19",
+            "en_ref": "1 John 4:19",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "親愛的弟兄啊，我們應當彼此相愛，因為愛是從神來的。",
+            "en": "Dear friends, let us love one another, for love comes from God.",
+            "zh_ref": "約翰一書 4:7",
+            "en_ref": "1 John 4:7",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "未曾愛心的，就不認識神，因為神就是愛。",
+            "en": "Whoever does not love does not know God, because God is love.",
+            "zh_ref": "約翰一書 4:8",
+            "en_ref": "1 John 4:8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "總而言之，你們都要同心，彼此體恤，相愛如弟兄，存憐憫的心，謙卑。",
+            "en": "Finally, all of you, be like-minded, be sympathetic, love one another, be compassionate and humble.",
+            "zh_ref": "彼得前書 3:8",
+            "en_ref": "1 Peter 3:8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "恨能挑啟爭端；愛能遮掩一切過錯。",
+            "en": "Hatred stirs up conflict, but love covers over all wrongs.",
+            "zh_ref": "箴言 10:12",
+            "en_ref": "Proverbs 10:12",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不可欠人的債，除了彼此相愛。因為愛人的就完全了律法。",
+            "en": "Let no debt remain outstanding, except the continuing debt to love one another, for whoever loves others has fulfilled the law.",
+            "zh_ref": "羅馬書 13:8",
+            "en_ref": "Romans 13:8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸與神。",
+            "en": "Accept one another, then, just as Christ accepted you, in order to bring praise to God.",
+            "zh_ref": "羅馬書 15:7",
+            "en_ref": "Romans 15:7",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "以善勝惡。",
+            "en": "Overcome evil with good.",
+            "zh_ref": "羅馬書 12:21",
+            "en_ref": "Romans 12:21",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "要凡事謙虛、溫柔、忍耐，用愛心互相寬容。",
+            "en": "Be completely humble and gentle; be patient, bearing with one another in love.",
+            "zh_ref": "以弗所書 4:2",
+            "en_ref": "Ephesians 4:2",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "愛人如己。",
+            "en": "Love your neighbor as yourself.",
+            "zh_ref": "馬可福音 12:31",
+            "en_ref": "Mark 12:31",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "要常常喜樂，不住地禱告，凡事謝恩。",
+            "en": "Rejoice always, pray continually, give thanks in all circumstances.",
+            "zh_ref": "帖撒羅尼迦前書 5:16-18",
+            "en_ref": "1 Thessalonians 5:16-18",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "溫柔的回答使怒氣消退；刺耳的話語激動怒氣。",
+            "en": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+            "zh_ref": "箴言 15:1",
+            "en_ref": "Proverbs 15:1",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "所以，無論何事，你們願意人怎樣待你們，你們也要怎樣待人。",
+            "en": "So in everything, do to others what you would have them do to you.",
+            "zh_ref": "馬太福音 7:12",
+            "en_ref": "Matthew 7:12",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "施比受更為有福。",
+            "en": "It is more blessed to give than to receive.",
+            "zh_ref": "使徒行傳 20:35",
+            "en_ref": "Acts 20:35",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "弟兄們，你們蒙召是要得自由，只是不可將你們的自由當作放縱情慾的機會，總要用愛心互相服事。",
+            "en": "You, my brothers and sisters, were called to be free. But do not use your freedom to indulge the flesh; rather, serve one another humbly in love.",
+            "zh_ref": "加拉太書 5:13",
+            "en_ref": "Galatians 5:13",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "要常存弟兄相愛的心。",
+            "en": "Keep on loving one another as brothers and sisters.",
+            "zh_ref": "希伯來書 13:1",
+            "en_ref": "Hebrews 13:1",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "忍耐的人，大有聰明；性情急躁的，大顯愚妄。",
+            "en": "A patient person has great understanding, but one who is quick-tempered displays folly.",
+            "zh_ref": "箴言 14:29",
+            "en_ref": "Proverbs 14:29",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "朋友乃時常親愛；弟兄為患難而生。",
+            "en": "A friend loves at all times, and a brother is born for a time of adversity.",
+            "zh_ref": "箴言 17:17",
+            "en_ref": "Proverbs 17:17",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "鐵磨鐵，磨出刃來；朋友相感，也是如此。",
+            "en": "As iron sharpens iron, so one person sharpens another.",
+            "zh_ref": "箴言 27:17",
+            "en_ref": "Proverbs 27:17",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "若有人說：「我愛神」，卻恨他的弟兄，就是說謊的；不愛他所看見的弟兄，就不能愛沒有看見的神。",
+            "en": "Whoever claims to love God yet hates a brother or sister is a liar. For whoever does not love their brother or sister, whom they have seen, cannot love God, whom they have not seen.",
+            "zh_ref": "約翰一書 4:20",
+            "en_ref": "1 John 4:20",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們中間誰願為大，就必作你們的用人；誰願為首，就必作你們的僕人。",
+            "en": "Whoever wants to become great among you must be your servant, and whoever wants to be first must be your slave.",
+            "zh_ref": "馬太福音 20:26-27",
+            "en_ref": "Matthew 20:26-27",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們要彼此饒恕，正如主饒恕了你們一樣。",
+            "en": "Forgive each other, just as the Lord has forgiven you.",
+            "zh_ref": "歌羅西書 3:13",
+            "en_ref": "Colossians 3:13",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "當我們還有機會的時候，就當向眾人行善，向信徒一家的人更當如此。",
+            "en": "Therefore, as we have opportunity, let us do good to all people, especially to those who belong to the family of believers.",
+            "zh_ref": "加拉太書 6:10",
+            "en_ref": "Galatians 6:10",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "親愛的弟兄啊，不要為自己伸冤，寧可讓步，聽憑主怒。",
+            "en": "Do not take revenge, my dear friends, but leave room for God’s wrath.",
+            "zh_ref": "羅馬書 12:19",
+            "en_ref": "Romans 12:19",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們一切的事都當憑愛心而做。",
+            "en": "Let all that you do be done in love.",
+            "zh_ref": "哥林多前書 16:14",
+            "en_ref": "1 Corinthians 16:14",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們各人的重擔要互相擔當，如此，就完全了基督的律法。",
+            "en": "Carry each other’s burdens, and in this way you will fulfill the law of Christ.",
+            "zh_ref": "加拉太書 6:2",
+            "en_ref": "Galatians 6:2",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們要和睦相處。",
+            "en": "Live in peace with each other.",
+            "zh_ref": "馬可福音 9:50",
+            "en_ref": "Mark 9:50",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "又要彼此相愛，像我愛你們一樣。",
+            "en": "Love one another as I have loved you.",
+            "zh_ref": "約翰福音 13:34",
+            "en_ref": "John 13:34",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不要以惡報惡；眾人以為美的事要留心去做。",
+            "en": "Do not repay evil with evil or insult with insult. On the contrary, repay evil with blessing, because to this you were called so that you may inherit a blessing.",
+            "zh_ref": "羅馬書 12:17",
+            "en_ref": "Romans 12:17",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不可含怒到日落。",
+            "en": "Do not let the sun go down while you are still angry.",
+            "zh_ref": "以弗所書 4:26",
+            "en_ref": "Ephesians 4:26",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "言語純全，無可指責，叫那反對的人，因說不出什麼惡來，就自覺羞愧。",
+            "en": "In your teaching show integrity, seriousness and soundness of speech that cannot be condemned, so that those who oppose you may be ashamed because they have nothing bad to say about us.",
+            "zh_ref": "提多書 2:7-8",
+            "en_ref": "Titus 2:7-8",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們要追求愛，也要切慕屬靈的恩賜，尤其要切慕作先知講道。",
+            "en": "Follow the way of love and eagerly desire gifts of the Spirit, especially prophecy.",
+            "zh_ref": "哥林多前書 14:1",
+            "en_ref": "1 Corinthians 14:1",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "使人和平的，是用和平所栽種的義果。",
+            "en": "Peacemakers who sow in peace reap a harvest of righteousness.",
+            "zh_ref": "雅各書 3:18",
+            "en_ref": "James 3:18",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "一句話說得合宜，就如金蘋果在銀網子裡。",
+            "en": "A word fitly spoken is like apples of gold in settings of silver.",
+            "zh_ref": "箴言 25:11",
+            "en_ref": "Proverbs 25:11",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "好樹結好果子；壞樹結壞果子。",
+            "en": "A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.",
+            "zh_ref": "馬太福音 7:17",
+            "en_ref": "Matthew 7:17",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "存心謙卑，各人看別人比自己強。",
+            "en": "In humility value others above yourselves.",
+            "zh_ref": "腓立比書 2:3",
+            "en_ref": "Philippians 2:3",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "不要論斷人，免得你們被論斷。",
+            "en": "Do not judge, or you too will be judged.",
+            "zh_ref": "馬太福音 7:1",
+            "en_ref": "Matthew 7:1",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你們禱告，無論求什麼，只要信，就必得著。",
+            "en": "If you believe, you will receive whatever you ask for in prayer.",
+            "zh_ref": "馬太福音 21:22",
+            "en_ref": "Matthew 21:22",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "要愛你們的仇敵，為那逼迫你們的禱告。",
+            "en": "Love your enemies and pray for those who persecute you.",
+            "zh_ref": "馬太福音 5:44",
+            "en_ref": "Matthew 5:44",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。",
+            "en": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+            "zh_ref": "哥林多後書 5:17",
+            "en_ref": "2 Corinthians 5:17",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "他將深奧的事從黑暗中彰顯，使死蔭顯為光明。",
+            "en": "He reveals the deep things of darkness and brings utter darkness into the light.",
+            "zh_ref": "約伯記 12:22",
+            "en_ref": "Job 12:22",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "你的話是我腳前的燈，是我路上的光。",
+            "en": "Your word is a lamp for my feet, a light on my path.",
+            "zh_ref": "詩篇 119:105",
+            "en_ref": "Psalm 119:105",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "我聽見你的聲音，我歡喜快樂。",
+            "en": "I rejoice in your word like one finding great spoil.",
+            "zh_ref": "詩篇 119:162",
+            "en_ref": "Psalm 119:162",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "神在我們裡面，因為我們遵守他的命令。這就使我們知道，神住在我們裡面，是藉著他所賜給我們的聖靈。",
+            "en": "And this is how we know that he lives in us: We know it by the Spirit he gave us.",
+            "zh_ref": "約翰一書 3:24",
+            "en_ref": "1 John 3:24",
+            "topic": "愛與人際關係"
+        },
+        {
+            "zh": "我們行事為人是憑著信心，不是憑著眼見。",
+            "en": "For we live by faith, not by sight.",
+            "zh_ref": "哥林多後書 5:7",
+            "en_ref": "2 Corinthians 5:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "信就是所望之事的實底，是未見之事的確據。",
+            "en": "Now faith is confidence in what we hope for and assurance about what we do not see.",
+            "zh_ref": "希伯來書 11:1",
+            "en_ref": "Hebrews 11:1",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "人非有信，就不能得神的喜悅；因為到神面前來的人必須信有神，且信他賞賜那尋求他的人。",
+            "en": "And without faith it is impossible to please God, because anyone who comes to him must believe that he exists and that he rewards those who earnestly seek him.",
+            "zh_ref": "希伯來書 11:6",
+            "en_ref": "Hebrews 11:6",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "凡事都能，在信的人，凡事都能。",
+            "en": "Everything is possible for one who believes.",
+            "zh_ref": "馬可福音 9:23",
+            "en_ref": "Mark 9:23",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們禱告，無論求什麼，只要信，就必得著。",
+            "en": "If you believe, you will receive whatever you ask for in prayer.",
+            "zh_ref": "馬太福音 21:22",
+            "en_ref": "Matthew 21:22",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "應當一無掛慮，只要凡事藉著禱告、祈求，和感謝，將你們所要的告訴神。",
+            "en": "Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God.",
+            "zh_ref": "腓立比書 4:6",
+            "en_ref": "Philippians 4:6",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念。",
+            "en": "And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus.",
+            "zh_ref": "腓立比書 4:7",
+            "en_ref": "Philippians 4:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？",
+            "en": "The Lord is my light and my salvation—whom shall I fear? The Lord is the stronghold of my life—of whom shall I be afraid?",
+            "zh_ref": "詩篇 27:1",
+            "en_ref": "Psalm 27:1",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "不要懼怕，因為我與你同在；不要驚惶，因為我是你的神。我必堅固你，我必幫助你；我必用我公義的右手扶持你。",
+            "en": "So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand.",
+            "zh_ref": "以賽亞書 41:10",
+            "en_ref": "Isaiah 41:10",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "因為我知道我向你們所懷的意念，是賜平安的意念，不是降災禍的意念，要叫你們末後有指望。",
+            "en": "For I know the plans I have for you,” declares the Lord, “plans to prosper you and not to harm you, plans to give you hope and a future.",
+            "zh_ref": "耶利米書 29:11",
+            "en_ref": "Jeremiah 29:11",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我們有這指望，如同靈魂的錨，又堅固又牢靠，直通到幔子內。",
+            "en": "We have this hope as an anchor for the soul, firm and secure. It enters the inner sanctuary behind the curtain.",
+            "zh_ref": "希伯來書 6:19",
+            "en_ref": "Hebrews 6:19",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "但那等候耶和華的必重新得力。他們必如鷹展翅上騰；他們奔跑卻不困倦，行走卻不疲乏。",
+            "en": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+            "zh_ref": "以賽亞書 40:31",
+            "en_ref": "Isaiah 40:31",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "所以，我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。",
+            "en": "So we fix our eyes not on what is seen, but on what is unseen, since what is seen is temporary, but what is unseen is eternal.",
+            "zh_ref": "哥林多後書 4:18",
+            "en_ref": "2 Corinthians 4:18",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "凡勞苦擔重擔的人都到我這裡來，我要使你們得安息。",
+            "en": "Come to me, all you who are weary and burdened, and I will give you rest.",
+            "zh_ref": "馬太福音 11:28",
+            "en_ref": "Matthew 11:28",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。",
+            "en": "But he said to me, “My grace is sufficient for you, for my power is made perfect in weakness.”",
+            "zh_ref": "哥林多後書 12:9",
+            "en_ref": "2 Corinthians 12:9",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我總不撇下你，也不丟棄你。",
+            "en": "Never will I leave you; never will I forsake you.",
+            "zh_ref": "希伯來書 13:5",
+            "en_ref": "Hebrews 13:5",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "在世上，你們有苦難；但你們可以放心，我已經勝了世界。",
+            "en": "I have told you these things, so that in me you may have peace. In this world you will have trouble. But take heart! I have overcome the world.",
+            "zh_ref": "約翰福音 16:33",
+            "en_ref": "John 16:33",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們不要憂愁，因靠耶和華而得的喜樂是你們的力量。",
+            "en": "Do not grieve, for the joy of the Lord is your strength.",
+            "zh_ref": "尼希米記 8:10",
+            "en_ref": "Nehemiah 8:10",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "耶和華是我的牧者，我必不致缺乏。",
+            "en": "The Lord is my shepherd, I lack nothing.",
+            "zh_ref": "詩篇 23:1",
+            "en_ref": "Psalm 23:1",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "他使我躺臥在青草地上，領我在可安歇的水邊。",
+            "en": "He makes me lie down in green pastures, he leads me beside quiet waters.",
+            "zh_ref": "詩篇 23:2",
+            "en_ref": "Psalm 23:2",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "他使我的靈魂甦醒，為自己的名引導我走義路。",
+            "en": "he refreshes my soul. He guides me along the right paths for his name’s sake.",
+            "zh_ref": "詩篇 23:3",
+            "en_ref": "Psalm 23:3",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我雖然行過死蔭的幽谷，也不怕遭害，因為你與我同在；你的杖，你的竿，都安慰我。",
+            "en": "Even though I walk through the darkest valley, I will fear no evil, for you are with me; your rod and your staff, they comfort me.",
+            "zh_ref": "詩篇 23:4",
+            "en_ref": "Psalm 23:4",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "在我敵人面前，你為我擺設筵席；你用油膏了我的頭，使我的福杯滿溢。",
+            "en": "You prepare a table before me in the presence of my enemies. You anoint my head with oil; my cup overflows.",
+            "zh_ref": "詩篇 23:5",
+            "en_ref": "Psalm 23:5",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我一生一世必有恩惠慈愛隨著我；我且要住在耶和華的殿中，直到永遠。",
+            "en": "Surely your goodness and love will follow me all the days of my life, and I will dwell in the house of the Lord forever.",
+            "zh_ref": "詩篇 23:6",
+            "en_ref": "Psalm 23:6",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
+            "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+            "zh_ref": "約翰福音 14:27",
+            "en_ref": "John 14:27",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "他洗淨我們的罪，用他自己的血。",
+            "en": "He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, in whom we have redemption, the forgiveness of sins.",
+            "zh_ref": "歌羅西書 1:13-14",
+            "en_ref": "Colossians 1:13-14",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "因為在神，凡事都能。",
+            "en": "For no word from God will ever fail.",
+            "zh_ref": "馬太福音 19:26",
+            "en_ref": "Matthew 19:26",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "耶和華是我的力量，是我的盾牌；我心裡倚靠他，就蒙了幫助。",
+            "en": "The Lord is my strength and my shield; in him my heart trusts, and I am helped.",
+            "zh_ref": "詩篇 28:7",
+            "en_ref": "Psalm 28:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們若常在我裡面，我的話也常在你們裡面，凡你們所願意的，祈求，就給你們成就。",
+            "en": "If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.",
+            "zh_ref": "約翰福音 15:7",
+            "en_ref": "John 15:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我留下平安給你們；我將我的平安賜給你們。我所賜的，不像世人所賜的。你們心裡不要憂愁，也不要膽怯。",
+            "en": "Peace I leave with you; my peace I give you. I do not give to you as the world gives. Do not let your hearts be troubled and do not be afraid.",
+            "zh_ref": "約翰福音 14:27",
+            "en_ref": "John 14:27",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "但那等候耶和華的必重新得力。他們必如鷹展翅上騰；他們奔跑卻不困倦，行走卻不疲乏。",
+            "en": "but those who hope in the Lord will renew their strength. They will soar on wings like eagles; they will run and not grow weary, they will walk and not be faint.",
+            "zh_ref": "以賽亞書 40:31",
+            "en_ref": "Isaiah 40:31",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "所以，不要為明天憂慮，因為明天自有明天的憂慮；一天的難處一天當就夠了。",
+            "en": "Therefore do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.",
+            "zh_ref": "馬太福音 6:34",
+            "en_ref": "Matthew 6:34",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們一切的重擔要卸給主，他必撫養你們。",
+            "en": "Cast your cares on the Lord and he will sustain you; he will never let the righteous be shaken.",
+            "zh_ref": "詩篇 55:22",
+            "en_ref": "Psalm 55:22",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "凡事都能，在信的人，凡事都能。",
+            "en": "Everything is possible for one who believes.",
+            "zh_ref": "馬可福音 9:23",
+            "en_ref": "Mark 9:23",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "那賜諸般恩典的神曾在基督裡召你們，得享他永遠的榮耀，等你們暫受苦難之後，必要親自成全你們，堅固你們，賜力量給你們。",
+            "en": "And the God of all grace, who called you to his eternal glory in Christ, after you have suffered a little while, will himself restore you and make you strong, firm and steadfast.",
+            "zh_ref": "彼得前書 5:10",
+            "en_ref": "1 Peter 5:10",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我們若認自己的罪，神是信實的，是公義的，必要赦免我們的罪，洗淨我們一切的不義。",
+            "en": "If we confess our sins, he is faithful and just and will forgive us our sins and purify us from all unrighteousness.",
+            "zh_ref": "約翰一書 1:9",
+            "en_ref": "1 John 1:9",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們得救是本乎恩，也因著信；這並不是出於自己，乃是神所賜的；也不是出於行為，免得有人自誇。",
+            "en": "For it is by grace you have been saved, through faith—and this is not from yourselves, it is the gift of God—not by works, so that no one can boast.",
+            "zh_ref": "以弗所書 2:8-9",
+            "en_ref": "Ephesians 2:8-9",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "若有人在基督裡，他就是新造的人，舊事已過，都變成新的了。",
+            "en": "Therefore, if anyone is in Christ, the new creation has come: The old has gone, the new is here!",
+            "zh_ref": "哥林多後書 5:17",
+            "en_ref": "2 Corinthians 5:17",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們求，就給你們；尋找，就尋見；叩門，就給你們開門。",
+            "en": "Ask and it will be given to you; seek and you will find; knock and the door will be opened to you.",
+            "zh_ref": "馬太福音 7:7",
+            "en_ref": "Matthew 7:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "因為凡祈求的，就得著；尋找的，就尋見；叩門的，就給他開門。",
+            "en": "For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.",
+            "zh_ref": "馬太福音 7:8",
+            "en_ref": "Matthew 7:8",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "因為從他造天地以來，神的永能和神性是明明可知的，雖是眼不能見，但藉著所造之物就可以曉得，叫人無可推諉。",
+            "en": "For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.",
+            "zh_ref": "羅馬書 1:20",
+            "en_ref": "Romans 1:20",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "敬畏耶和華是知識的開端；愚妄人藐視智慧和訓誨。",
+            "en": "The fear of the Lord is the beginning of knowledge, but fools despise wisdom and instruction.",
+            "zh_ref": "箴言 1:7",
+            "en_ref": "Proverbs 1:7",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你從前所學習的，所確信的，要存在心裡；因為你知道是跟誰學的。",
+            "en": "But as for you, continue in what you have learned and have become convinced of, because you know those from whom you learned it.",
+            "zh_ref": "提摩太後書 3:14",
+            "en_ref": "2 Timothy 3:14",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你的話是我腳前的燈，是我路上的光。",
+            "en": "Your word is a lamp for my feet, a light on my path.",
+            "zh_ref": "詩篇 119:105",
+            "en_ref": "Psalm 119:105",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "我聽見你的聲音，我歡喜快樂。",
+            "en": "I rejoice in your word like one finding great spoil.",
+            "zh_ref": "詩篇 119:162",
+            "en_ref": "Psalm 119:162",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們中間若有缺少智慧的，應當求那厚賜與眾人、也不斥責人的神，主就必賜給他。",
+            "en": "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you.",
+            "zh_ref": "雅各書 1:5",
+            "en_ref": "James 1:5",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "人所行的在耶和華眼中看為正直，耶和華必引導他的腳步。",
+            "en": "In their hearts humans plan their course, but the Lord establishes their steps.",
+            "zh_ref": "箴言 16:9",
+            "en_ref": "Proverbs 16:9",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "你們要順從耶和華，他必使你的路徑平坦。",
+            "en": "Trust in the Lord with all your heart and lean not on your own understanding; in all your ways submit to him, and he will make your paths straight.",
+            "zh_ref": "箴言 3:5-6",
+            "en_ref": "Proverbs 3:5-6",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。",
+            "en": "Do not conform to the pattern of this world, but be transformed by the renewing of your mind. Then you will be able to test and approve what God’s will is—his good, pleasing and perfect will.",
+            "zh_ref": "羅馬書 12:2",
+            "en_ref": "Romans 12:2",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "凡事都有定期，天下萬務都有定時。",
+            "en": "There is a time for everything, and a season for every activity under the heavens.",
+            "zh_ref": "傳道書 3:1",
+            "en_ref": "Ecclesiastes 3:1",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "不要怕，只要信！",
+            "en": "Don’t be afraid; just believe.",
+            "zh_ref": "馬可福音 5:36",
+            "en_ref": "Mark 5:36",
+            "topic": "信心與盼望"
+        },
+        {
+            "zh": "敬畏耶和華是智慧的開端；凡遵行他命令的是聰明人。耶和華是永遠受讚美的！",
+            "en": "The fear of the Lord is the beginning of wisdom; all who follow his precepts have good understanding. To him goes all praise forever!",
+            "zh_ref": "詩篇 111:10",
+            "en_ref": "Psalm 111:10",
+            "topic": "信心與盼望"
+        },
         {
             "zh": "敬畏耶和華是智慧的開端；認識至聖者便是聰明。",
             "en": "The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.",
@@ -2870,3 +3169,4 @@
             "topic": "救贖與恩典"
         }
     ]
+}
